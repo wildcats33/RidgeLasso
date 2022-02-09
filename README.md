@@ -2,8 +2,8 @@
 Ridge and Lasso Assignment
 
 ## Technologies used
-pandas
-numpy
+* pandas
+* numpy
 phyton
 matplotlib
 seaborn
