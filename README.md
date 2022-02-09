@@ -1,4 +1,4 @@
-# Ridge ad Lasso
+# Ridge and Lasso
 Ridge and Lasso Assignment
 
 ## Technologies used
